@@ -1,0 +1,7 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs/PostMessage-ServiceBus-OP/FileContentIndex/18efc203-ba5b-4e53-856e-bce36e4ff751.vsidx
+*.vsidx
+/.vs
