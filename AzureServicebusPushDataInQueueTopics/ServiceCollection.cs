@@ -43,7 +43,7 @@ namespace AzureServiceBus_nomination
         public static void SetServiceBusClient(this IServiceCollection services)
         {
             // setting the service bus client
-            services.OptionConfigurationServiceBus();
+            //services.OptionConfigurationServiceBus();
             // use generic method
             services.OptionConfiguration<ServiceBusOption>();
             services.AddSingleton(serviceProvider =>
